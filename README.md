@@ -1,6 +1,8 @@
 <h1 align="Left">
   <br>
   장재웅 Jae Ung Jang   
+</h1> 
+<div>
   <a href="https://www.linkedin.com/in/jae-ung-jang-788731252/" target="_blank">
     <img src="https://img.shields.io/badge/JaeUngJang-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/>
   </a>
@@ -10,7 +12,8 @@
   <a href="" target="_blank">
     <img src="https://img.shields.io/badge/Resume (Eng ver.)-000000?style=flat-square&logo=Notion&logoColor=white"/>
   </a>
-</h1> 
+</div>
+
 
  ### 👨🏻‍💻  About
   개발 재밌어서 여러 가지 언어 및 분야들을 공부하고 있는 경영학도 장재웅입니다.
