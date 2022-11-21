@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/jae-ung-jang-788731252/" target="_blank">
     <img src="https://img.shields.io/badge/JaeUngJang-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/>
   </a>
-  <a href="https://www.notion.so/jangjaeung/ece1e21f38d245438f747d0107d4fc9c" target="_blank">
+  <a href="https://www.notion.so/jangjaeung/Jae-Ung-Jang-9ed398de8b0b4a98a16683f6ceae3a54">
     <img src="https://img.shields.io/badge/Resume (Kor ver.)-000000?style=flat-square&logo=Notion&logoColor=white"/>
   </a>
   <a href="" target="_blank">
