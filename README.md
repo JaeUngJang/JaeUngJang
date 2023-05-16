@@ -18,7 +18,7 @@
  ### 👨🏻‍💻  About
   개발 재밌어서 여러 가지 언어 및 분야들을 공부하고 있는 러너 장재웅입니다.
  
- <img align = "left" src = "https://github-readme-stats.vercel.app/api?username=jaeungjang&show_icons=true&theme=light" width = 450/>
+ <img align = "left" src = "https://github-readme-stats.vercel.app/api?username=jaeungjang&show_icons=true&theme=swift" width = 450/>
 
  ### ⚙️ Tech Stack
  <div align=left> 
