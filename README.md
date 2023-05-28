@@ -53,7 +53,6 @@
 </div>
 
  ##  Projects
- - <a href="https://github.com/JaeUngJang/SolGeo">기숙사 업무 자동화 프로그램 SolGeo</a>
  - <a href="https://github.com/senior-management-application-SISO/SISO">독거노인 케어 프로그램 SISO</a>
  - <a href="https://github.com/EmotionReader/EmotionReader">표정분석 프로그램 EmotionReader</a>
 
