@@ -13,26 +13,3 @@
     <img src="https://img.shields.io/badge/Resume (Eng ver.)-000000?style=flat-square&logo=Notion&logoColor=white"/>
   </a> -->
 </div>
-
-
- ### 👨🏻‍💻  About
- </br> 
- <br>
-  -->
- </br> 
- </br> 
- </br> 
- </br> 
- </br>
- </br>
- </br> 
- </br> 
-  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-
-</div>
-
- ##  Projects
- - <a href="https://github.com/senior-management-application-SISO/SISO">독거노인 케어 프로그램 SISO</a>
- - <a href="https://github.com/EmotionReader/EmotionReader">표정분석 프로그램 EmotionReader</a>
-
