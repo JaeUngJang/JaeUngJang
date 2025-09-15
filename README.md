@@ -18,8 +18,6 @@
  ### 👨🏻‍💻  About
  </br> 
  <br>
- <img align = "left" src = "https://github-readme-stats.vercel.app/api?username=jaeungjang&show_icons=true&theme=swift" width = 450/>
-<!--  <img align = "left" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=jaeungjang&layout=compact&theme=swift" width = 340/>
   -->
  </br> 
  </br> 
